@@ -4,3 +4,5 @@
 4. Make changes to project
 5. Push changes to branch on GitHub
 6. Issue PR
+7. Merge PR
+8. Pull main from GitHub back to local repo
