@@ -1,0 +1,6 @@
+1. Create repo on GitHub
+2. Clone GitHub repo
+3. Create branch on local machine
+4. Make changes to project
+5. Push changes to branch on GitHub
+6. Issue PR
