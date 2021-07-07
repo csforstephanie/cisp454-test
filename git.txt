@@ -5,5 +5,6 @@
 5. Push changes to branch on GitHub
 6. Issue PR
 7. Merge PR on GitHub
-8. Delete the branch on GitHub
+8. Delete branch on GitHub
 9. Pull updated main branch to repo
+10. ....
